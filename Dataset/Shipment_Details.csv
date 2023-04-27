@@ -1,0 +1,201 @@
+SH_ID,C_ID,SH_CONTENT,SH_DOMAIN,SER_TYPE,SH_WEIGHT,SH_CHARGES,SR_ADDR,DS_ADDR
+690,230,Healthcare,Domestic,Regular,553,1210,1800 Block of 26TH ST,1200 Block of JACKSON ST
+933,3189,Healthcare,International,Express,810,1114,2600 Block of ALEMANY BL,700 Block of HAMPSHIRE ST
+261,2216,Luggage,Domestic,Express,994,1020,BARTLETT ST / 23RD ST,500 Block of HAIGHT ST
+445,1904,Home Furnishing,Domestic,Express,598,1351,1300 Block of 7TH AV,300 Block of 9TH ST
+722,7342,Electronics,International,Express,412,566,0 Block of EUREKA ST,1800 Block of VANNESS AV
+129,7633,Food and Beverages,Domestic,Regular,379,590,700 Block of VANNESS AV,500 Block of LEAVENWORTH ST
+489,2154,Fashion,Domestic,Regular,892,1407,200 Block of BERRY ST,CARROLL AV / JENNINGS ST
+165,5543,Industrial Equipments,Domestic,Regular,347,786,1100 Block of FRANCISCO ST,1000 Block of MARKET ST
+164,2332,Hazardous Goods,International,Express,457,855,100 Block of NEWMONTGOMERY ST,600 Block of SOUTH VAN NESS AV
+364,4094,Automotive,International,Express,957,1182,200 Block of SCOTT ST,2600 Block of MISSION ST
+469,3042,Electronics,International,Regular,23,25,BELVEDERE ST / WALLER ST,0 Block of CEDAR ST
+158,2220,Healthcare,Domestic,Express,479,861,800 Block of BRYANT ST,500 Block of FREDERICK ST
+337,4988,Electronics,Domestic,Express,305,834,1300 Block of CALIFORNIA ST,0 Block of RAUSCH ST
+634,175,Healthcare,International,Express,939,1446,300 Block of CHENERY ST,BUSH ST / BUCHANAN ST
+577,4233,Fashion,Domestic,Regular,679,1455,2600 Block of 18TH ST,800 Block of BRYANT ST
+907,4351,Electronics,International,Express,803,1020,800 Block of 30TH AV,1100 Block of MARKET ST
+870,5578,Construction,Domestic,Regular,783,1042,800 Block of GENEVA AV,300 Block of 4TH ST
+982,4523,Industrial Equipments,Domestic,Regular,432,915,800 Block of BRYANT ST,100 Block of TOWNSEND ST
+351,2972,Industrial Equipments,Domestic,Regular,776,1053,15TH ST / SANCHEZ ST,1700 Block of FULTON ST
+328,6153,Healthcare,Domestic,Express,710,1066,900 Block of ELLSWORTH ST,400 Block of 28TH ST
+242,4852,Construction,Domestic,Regular,959,1253,600 Block of FRANCISCO ST,FELL ST / MASONIC AV
+421,8106,Automotive,International,Regular,147,535,800 Block of BRYANT ST,900 Block of RANDOLPH ST
+6,3917,Arts and crafts,International,Express,613,1256,800 Block of BRYANT ST,0 Block of 6TH ST
+384,9377,Luggage,Domestic,Regular,590,1033,ELLIS ST / LAGUNA ST,0 Block of HYDE ST
+286,5387,Electronics,Domestic,Regular,193,817,100 Block of STEUART ST,900 Block of VALENCIA ST
+892,6513,Luggage,Domestic,Regular,879,1037,700 Block of FOLSOM ST,300 Block of ARBALLO DR
+558,3965,Industrial Equipments,Domestic,Regular,275,951,1600 Block of VANNESS AV,100 Block of PHELAN AV
+481,8893,Construction,International,Regular,319,770,800 Block of MARKET ST,0 Block of GORDON ST
+155,1897,Hazardous Goods,Domestic,Express,52,293,800 Block of BRYANT ST,600 Block of VALENCIA ST
+771,390,Electronics,Domestic,Regular,702,1414,SHOTWELL ST / 17TH ST,EDDY ST / HYDE ST
+945,3633,Healthcare,Domestic,Express,299,524,1500 Block of BAKER ST,LIPPARD AV / BOSWORTH ST
+719,7828,Arts and crafts,Domestic,Regular,930,1183,100 Block of BERRY ST,KERN ST / DIAMOND ST
+493,2241,Home Furnishing,Domestic,Regular,314,566,700 Block of HOWARD ST,HARRISON ST / 3RD ST
+998,896,Hazardous Goods,International,Express,109,961,0 Block of LEE AV,0 Block of FALLON PL
+968,6361,Food and Beverages,Domestic,Regular,24,54,STOCKTON ST / BROADWAY ST,900 Block of GEARY ST
+738,6713,Electronics,Domestic,Express,545,1044,LAKE MERCED BL / BROTHERHOOD WAY,HARRISON ST / THE EMBARCADEROSOUTH ST
+912,4283,Fashion,International,Regular,505,1082,GEARY ST / POLK ST,1600 Block of LASALLE AV
+782,9486,Electronics,International,Regular,182,871,1400 Block of DOUGLASS ST,48TH AV / JUDAH ST
+140,308,Luggage,International,Regular,226,970,100 Block of FONT BL,1000 Block of KEY AV
+702,8927,Home Furnishing,International,Regular,111,617,HOLLOWAY AV / BRIGHTON AV,TAYLOR ST / GOLDEN GATE AV
+284,249,Hazardous Goods,International,Express,145,814,1800 Block of KIRKHAM ST,800 Block of BRYANT ST
+199,2620,Electronics,Domestic,Regular,829,1145,500 Block of TUNNEL AV,1600 Block of TURK ST
+228,1164,Electronics,Domestic,Regular,269,902,800 Block of BRYANT ST,100 Block of SPEAR ST
+908,4711,Hazardous Goods,International,Regular,660,1470,200 Block of CHENERY ST,2900 Block of DIAMOND ST
+594,4053,Home Furnishing,Domestic,Regular,484,568,1000 Block of POTRERO AV,400 Block of ROLPH ST
+542,4272,Food and Beverages,International,Regular,100,487,100 Block of HYDE ST,BANCROFT AV / KEITH ST
+586,7005,Construction,Domestic,Express,711,1197,1100 Block of HUDSON AV,MYRTLE ST / LARKIN ST
+636,2308,Home Furnishing,International,Regular,325,994,STOCKTON ST / POST ST,500 Block of MAGELLAN AV
+581,5150,Automotive,Domestic,Regular,209,933,LEAVENWORTH ST / TURK ST,1600 Block of 38TH AV
+336,693,Construction,International,Express,996,1168,800 Block of BRYANT ST,3300 Block of MISSION ST
+504,9598,Luggage,International,Regular,420,561,4200 Block of 26TH ST,0 Block of TURK ST
+346,8103,Industrial Equipments,International,Express,182,850,BLAKE ST / GEARY BL,BROADWAY ST / COLUMBUS AV
+135,8894,Construction,Domestic,Express,901,1393,WASHINGTON ST / DRUMM ST,1200 Block of PINE ST
+822,114,Construction,International,Regular,88,426,EXECUTIVEPARK BL / ALANA WY,900 Block of MISSION ST
+95,6546,Electronics,Domestic,Regular,660,1208,0 Block of BROOKDALE AV,1300 Block of EGBERT AV
+597,3571,Luggage,Domestic,Regular,267,925,3600 Block of 22ND ST,200 Block of NAGLEE AV
+340,7316,Fashion,International,Express,905,1392,700 Block of 3RD ST,FRANCISCO ST / JONES ST
+905,2478,Luggage,Domestic,Express,799,1425,1700 Block of 25TH ST,1300 Block of BROADWAY ST
+250,1215,Construction,International,Express,773,1225,1200 Block of POLK ST,1200 Block of MARKET ST
+400,5402,Luggage,Domestic,Express,78,403,EARL ST / LASALLE AV,1400 Block of KIRKWOOD CT
+877,1647,Industrial Equipments,Domestic,Express,791,1169,CLARA ST / 4TH ST,100 Block of ATOLL CR
+97,9423,Construction,Domestic,Express,603,1167,0 Block of STEINER ST,1100 Block of FRANCISCO ST
+12,6404,Construction,Domestic,Regular,360,565,1800 Block of 8TH AV,JONES ST / GOLDEN GATE AV
+353,6767,Fashion,Domestic,Express,84,354,HARRISON ST / 11TH ST,BROADWAY ST / KEARNY ST
+856,1278,Automotive,Domestic,Regular,880,1178,500 Block of HYDE ST,400 Block of CAPP ST
+1,1334,Arts and crafts,International,Express,947,1385,LARKIN ST / ELLIS ST,2700 Block of DIAMOND ST
+390,8887,Automotive,Domestic,Regular,234,780,6500 Block of 3RD ST,800 Block of 33RD AV
+446,9858,Food and Beverages,Domestic,Express,931,1247,0 Block of WHITFIELD CT,1500 Block of POWELL ST
+32,9636,Arts and crafts,Domestic,Express,478,705,1100 Block of OCEAN AV,900 Block of DEHARO ST
+420,9943,Industrial Equipments,Domestic,Express,638,1130,BRYANT ST / 4TH ST,1300 Block of MISSION ST
+708,1246,Industrial Equipments,Domestic,Express,50,72,900 Block of CONNECTICUT ST,LEAVENWORTH ST / EDDY ST
+227,4527,Industrial Equipments,International,Regular,477,564,POLK ST / BEACH ST,700 Block of LARKIN ST
+595,3782,Fashion,International,Regular,879,1040,37TH AV / RIVERA ST,1200 Block of 36TH AV
+211,6225,Electronics,Domestic,Express,912,1220,FREMONT ST / HARRISON ST,0 Block of CRESTLAKE DR
+650,2257,Food and Beverages,International,Regular,868,1141,400 Block of GENEVA AV,POWELL ST / OFARRELL ST
+45,9177,Healthcare,Domestic,Express,889,1050,20TH ST / KANSAS ST,JEFFERSON ST / TAYLOR ST
+201,8703,Home Furnishing,Domestic,Regular,482,850,4000 Block of 18TH ST,500 Block of ELLIS ST
+564,3514,Healthcare,International,Express,683,1275,1400 Block of 14TH AV,1800 Block of DIVISADERO ST
+138,3089,Home Furnishing,Domestic,Regular,382,714,200 Block of 2ND ST,0 Block of THRIFT ST
+57,7253,Construction,Domestic,Regular,753,1027,2900 Block of TURK ST,300 Block of DEMONTFORT AV
+128,8786,Arts and crafts,International,Express,718,1486,0 Block of 7TH ST,300 Block of 10TH ST
+33,1211,Industrial Equipments,Domestic,Express,577,1312,0 Block of CUMBERLAND ST,200 Block of POPLAR ST
+936,359,Electronics,International,Express,607,1007,1100 Block of POLK ST,800 Block of OFARRELL ST
+762,2066,Automotive,International,Regular,242,926,16TH ST / UTAH ST,400 Block of CASTRO ST
+838,4322,Industrial Equipments,International,Express,593,1036,100 Block of GOLDEN GATE AV,800 Block of MISSION ST
+215,7773,Electronics,Domestic,Express,812,1161,1500 Block of POLK ST,600 Block of KANSAS ST
+818,6746,Hazardous Goods,Domestic,Express,833,1016,POLK ST / SUTTER ST,1200 Block of NOE ST
+780,6732,Healthcare,International,Express,872,1058,100 Block of BREWSTER ST,900 Block of MARKET ST
+40,805,Arts and crafts,Domestic,Regular,483,648,0 Block of TURK ST,900 Block of CAPITOL AV
+366,7540,Fashion,International,Regular,679,1015,1700 Block of SUNNYDALE AV,400 Block of BAKER ST
+678,5269,Hazardous Goods,International,Express,318,938,SOUTH VAN NESS AV / 13TH ST,100 Block of LELAND AV
+703,8404,Home Furnishing,Domestic,Express,329,597,22ND ST / CAROLINA ST,2600 Block of FOLSOM ST
+180,519,Luggage,Domestic,Regular,588,1182,POWELL ST / GEARY ST,3RD ST / PALOU AV
+214,4060,Food and Beverages,International,Regular,442,713,2500 Block of MISSION ST,2600 Block of 34TH AV
+408,8860,Hazardous Goods,Domestic,Express,216,939,600 Block of VALENCIA ST,500 Block of 9TH ST
+902,7164,Construction,Domestic,Express,946,1082,300 Block of OFARRELL ST,0 Block of RAE AV
+763,9792,Luggage,International,Express,796,1347,1700 Block of FULTON ST,100 Block of GOLDEN GATE AV
+168,9934,Arts and crafts,Domestic,Regular,26,47,DIVISADERO ST / JACKSON ST,0 Block of DESOTO ST
+723,1980,Automotive,Domestic,Express,490,762,SILLIMAN ST / BOWDOIN ST,200 Block of LEAVENWORTH ST
+438,9251,Home Furnishing,Domestic,Regular,430,642,2300 Block of CHESTNUT ST,LAKE MERCED BL / SUNSET BL
+162,6717,Arts and crafts,Domestic,Express,209,665,500 Block of VALENCIA ST,6TH ST / STEVENSON ST
+246,3622,Automotive,International,Express,379,963,800 Block of 47TH AV,0 Block of LURLINE ST
+105,8808,Industrial Equipments,Domestic,Regular,949,1419,KEITH ST / THOMAS AV,100 Block of CAPP ST
+308,4920,Electronics,Domestic,Express,438,656,LYON ST / OFARRELL ST,1200 Block of NOE ST
+172,3140,Food and Beverages,International,Express,726,1381,0 Block of HARRISON ST,1200 Block of GOLDEN GATE AV
+775,8104,Home Furnishing,Domestic,Express,451,713,0 Block of 6TH ST,1400 Block of RANKIN ST
+333,2208,Luggage,Domestic,Regular,812,1104,1800 Block of DONNER AV,19TH AV / LINCOLN WY
+548,7043,Healthcare,International,Regular,240,571,800 Block of INGERSON AV,MISSION ST / 2ND ST
+665,7485,Arts and crafts,Domestic,Regular,982,1405,1300 Block of REVERE AV,0 Block of WILLIAR AV
+305,1748,Automotive,Domestic,Express,954,1473,0 Block of DORE ST,100 Block of TURK ST
+938,9968,Hazardous Goods,Domestic,Regular,35,20,1200 Block of THE EMBARCADERONORTH ST,500 Block of BRANNAN ST
+714,5330,Electronics,Domestic,Express,148,835,PIERCE ST / LOMBARD ST,8TH AV / CLEMENT ST
+251,2183,Food and Beverages,International,Regular,422,651,1700 Block of NEWCOMB AV,1500 Block of LASALLE AV
+330,2182,Home Furnishing,Domestic,Express,275,653,2300 Block of 25TH AV,HOLLYPARK CR / MURRAY ST
+69,1087,Healthcare,Domestic,Regular,367,740,2000 Block of MISSION ST,2400 Block of SAN BRUNO AV
+969,4296,Industrial Equipments,International,Express,507,1334,1100 Block of CONNECTICUT ST,1700 Block of 22ND AV
+974,9784,Automotive,International,Regular,442,770,1000 Block of POTRERO AV,0 Block of LEAVENWORTH ST
+526,6210,Arts and crafts,International,Regular,510,1205,500 Block of 41ST AV,500 Block of GUERRERO ST
+510,5781,Fashion,International,Regular,117,716,700 Block of MARKET ST,ELLIS ST / HYDE ST
+444,8306,Construction,Domestic,Express,973,1250,0 Block of CASTLEMANOR AV,LANE ST / REVERE AV
+503,3270,Food and Beverages,Domestic,Regular,243,935,GEARY ST / HYDE ST,1200 Block of MARKET ST
+109,6787,Luggage,Domestic,Express,715,1185,2000 Block of MISSION ST,500 Block of 39TH AV
+823,3733,Healthcare,Domestic,Express,571,1031,700 Block of STANYAN ST,600 Block of MISSION ST
+147,207,Industrial Equipments,Domestic,Express,369,646,300 Block of ATHENS ST,1400 Block of CLAY ST
+625,3,Industrial Equipments,International,Regular,318,980,5600 Block of DIAMONDHEIGHTS BL,100 Block of ELLIOT ST
+695,1896,Food and Beverages,Domestic,Regular,266,833,2000 Block of MISSION ST,4600 Block of IRVING ST
+983,9631,Home Furnishing,International,Regular,60,166,200 Block of TURK ST,0 Block of ANKENY ST
+82,3132,Luggage,International,Express,121,557,NATOMA ST / 2ND ST,3500 Block of MISSION ST
+397,1202,Automotive,International,Express,876,1045,1600 Block of DONNER AV,800 Block of LARKIN ST
+599,8834,Industrial Equipments,Domestic,Regular,946,1100,400 Block of ELLIS ST,800 Block of MOSCOW ST
+306,1201,Hazardous Goods,Domestic,Regular,654,1150,100 Block of LEAVENWORTH ST,100 Block of PERSIA AV
+536,2573,Construction,Domestic,Express,74,281,100 Block of POWELL ST,0 Block of TAYLOR ST
+20,6759,Construction,Domestic,Regular,630,1062,1600 Block of 39TH AV,PARNASSUS AV / CLAYTON ST
+515,2601,Healthcare,Domestic,Express,782,1425,MARKET ST / CHURCH ST,LOMBARD ST / LEAVENWORTH ST
+332,2656,Luggage,International,Regular,45,39,100 Block of UPPER TR,POST ST / HYDE ST
+127,9645,Luggage,International,Express,916,1143,300 Block of SALINAS AV,1900 Block of FILLMORE ST
+958,584,Hazardous Goods,International,Express,274,669,0 Block of GOLDEN GATE AV,900 Block of MARIPOSA ST
+42,2121,Arts and crafts,Domestic,Regular,987,1134,MINNA ST / 5TH ST,MARKET ST / 5TH ST
+977,2142,Arts and crafts,International,Regular,434,558,200 Block of MISSOURI ST,900 Block of ELLSWORTH ST
+460,2396,Electronics,International,Express,897,1313,100 Block of EDDY ST,1400 Block of KIRKWOOD CT
+659,8747,Automotive,International,Regular,442,595,0 Block of UNITEDNATIONS PZ,200 Block of HAHN ST
+197,4142,Food and Beverages,Domestic,Express,98,360,300 Block of BUCHANAN ST,2800 Block of BRYANT ST
+540,9770,Luggage,International,Express,431,934,4000 Block of GEARY BL,1000 Block of POTRERO AV
+178,2593,Construction,International,Express,745,1383,3100 Block of 23RD ST,GEARY ST / POWELL ST
+202,9807,Home Furnishing,International,Express,871,1274,200 Block of HAHN ST,600 Block of VALENCIA ST
+632,2525,Industrial Equipments,Domestic,Regular,67,193,CAPP ST / 17TH ST,ALEMANY BL / ELLSWORTH ST
+25,1724,Home Furnishing,Domestic,Express,431,702,4TH ST / HARRISON ST,600 Block of CLAY ST
+990,7146,Construction,International,Regular,178,646,700 Block of BATTERY ST,0 Block of MARINA BL
+913,563,Home Furnishing,Domestic,Express,180,755,5TH ST / MARKET ST,MONTGOMERY ST / VALLEJO ST
+371,7771,Arts and crafts,Domestic,Express,280,990,2400 Block of MISSION ST,BEACH ST / TAYLOR ST
+514,4789,Hazardous Goods,Domestic,Express,263,965,TARAVAL ST / 17TH AV,EDDY ST / MASON ST
+707,3221,Automotive,Domestic,Regular,187,931,19TH ST / SHOTWELL ST,7TH ST / STEVENSON ST
+473,5197,Arts and crafts,International,Regular,94,361,2300 Block of 14TH AV,0 Block of 12TH ST
+847,8183,Fashion,International,Express,906,1297,2100 Block of MISSION ST,1100 Block of FOLSOM ST
+815,1126,Healthcare,International,Regular,71,130,1400 Block of VANDYKE AV,EDDY ST / VANNESS AV
+928,4899,Hazardous Goods,International,Express,253,904,800 Block of MARKET ST,800 Block of MARKET ST
+210,4732,Home Furnishing,International,Express,591,1433,300 Block of COLLINGWOOD ST,900 Block of MARKET ST
+793,4103,Automotive,Domestic,Regular,399,835,400 Block of ELLIS ST,17TH ST / SHOTWELL ST
+872,7861,Automotive,International,Express,91,242,21ST ST / POTRERO AV,400 Block of GENEVA AV
+298,7764,Hazardous Goods,International,Regular,717,1297,200 Block of 11TH AV,400 Block of TURK ST
+941,5345,Food and Beverages,International,Regular,735,1181,17TH ST / FOLSOM ST,400 Block of BRIGHT ST
+731,6191,Hazardous Goods,Domestic,Express,970,1242,KEITH ST / SHAFTER AV,0 Block of SPOFFORD LN
+500,310,Arts and crafts,Domestic,Regular,80,236,900 Block of LARKIN ST,900 Block of STOCKTON ST
+142,3095,Arts and crafts,Domestic,Express,550,1171,400 Block of TURK ST,MADRID ST / RUSSIA AV
+787,2159,Arts and crafts,International,Express,187,864,0 Block of OFARRELL ST,200 Block of TURK ST
+749,3569,Automotive,International,Express,262,875,0 Block of PAYSON ST,0 Block of POWELL ST
+304,5958,Food and Beverages,Domestic,Regular,540,1172,500 Block of STEVENSON ST,HYDE ST / TURK ST
+30,1275,Fashion,Domestic,Regular,581,1422,CALIFORNIA ST / DAVIS ST,0 Block of STOCKTON ST
+477,6357,Fashion,International,Regular,840,1061,400 Block of LEAVENWORTH ST,NEWCOMB AV / 3RD ST
+52,4551,Hazardous Goods,Domestic,Express,873,1199,1000 Block of COLUMBUS AV,1400 Block of PHELPS ST
+73,4252,Home Furnishing,Domestic,Express,315,937,800 Block of BRYANT ST,3800 Block of 24TH ST
+691,2096,Industrial Equipments,Domestic,Regular,955,1369,5TH ST / MISSION ST,1500 Block of HAIGHT ST
+786,5209,Healthcare,International,Express,372,679,3600 Block of SACRAMENTO ST,SCOTT ST / CHESTNUT ST
+68,9271,Arts and crafts,Domestic,Express,182,726,1700 Block of FULTON ST,300 Block of HAIGHT ST
+630,6772,Hazardous Goods,Domestic,Regular,868,1320,3300 Block of BALBOA ST,300 Block of ELLIS ST
+357,4628,Healthcare,International,Express,777,1113,200 Block of KING ST,0 Block of FUENTE AV
+455,3853,Construction,International,Regular,172,580,LASALLE AV / PHELPS ST,2000 Block of MISSION ST
+947,515,Fashion,International,Express,665,1257,3300 Block of 22ND ST,CALIFORNIA ST / POLK ST
+589,7513,Arts and crafts,International,Express,516,1084,16TH ST / MISSOURI ST,200 Block of HARKNESS AV
+863,9030,Automotive,International,Regular,412,872,WINSTON DR / 19TH AV,300 Block of BEALE ST
+668,2378,Luggage,Domestic,Express,938,1067,2100 Block of 16TH AV,5TH ST / MARKET ST
+206,5894,Luggage,International,Express,854,1251,1900 Block of WASHINGTON ST,CALIFORNIA ST / FILLMORE ST
+835,7587,Luggage,International,Regular,638,1314,MARTIN LUTHER KING JR DR / 9TH AV,0 Block of TURK ST
+315,1424,Food and Beverages,Domestic,Express,230,638,3RD AV / BALBOA ST,400 Block of LAKESHORE DR
+553,5214,Arts and crafts,Domestic,Regular,245,611,3800 Block of MISSION ST,100 Block of PAGE ST
+861,8249,Luggage,International,Regular,916,1255,500 Block of JOHNFKENNEDY DR,VALLEJO ST / KEARNY ST
+279,3172,Construction,International,Regular,84,464,800 Block of MARKET ST,1500 Block of SLOAT BL
+75,5489,Fashion,Domestic,Regular,869,1317,100 Block of POWELL ST,GOLDEN GATE AV / LEAVENWORTH ST
+895,2037,Arts and crafts,International,Express,271,704,500 Block of HOWARD ST,500 Block of JACKSON ST
+866,2401,Luggage,International,Regular,691,1260,0 Block of MYRTLE ST,2ND ST / TOWNSEND ST
+792,1303,Arts and crafts,Domestic,Regular,808,1257,900 Block of THE EMBARCADERO NORTH ST,2500 Block of OCTAVIA ST
+191,6798,Home Furnishing,International,Express,997,1382,600 Block of GOETTINGEN ST,100 Block of 6TH ST
+59,9917,Construction,International,Regular,329,977,1000 Block of SUTTER ST,800 Block of 3RD ST
+748,2969,Home Furnishing,Domestic,Regular,600,1048,100 Block of MONTGOMERY ST,600 Block of PRENTISS ST
+693,8737,Home Furnishing,International,Express,715,1271,0 Block of POWELL ST,600 Block of VALENCIA ST
+955,2104,Home Furnishing,International,Express,957,1007,BARTLETT ST / 21ST ST,FELL ST / POLK ST
+538,1702,Industrial Equipments,International,Express,484,863,700 Block of MARKET ST,700 Block of SWEENY ST
+169,8933,Electronics,International,Express,576,1077,0 Block of CAMERON WY,200 Block of DORE ST
+924,3624,Construction,International,Regular,606,1021,FILLMORE ST / OFARRELL ST,HAWTHORNE ST / HARRISON ST
+579,4892,Home Furnishing,Domestic,Express,913,1385,SUTTER ST / LAGUNA ST,SOUTH VAN NESS AV / 22ND ST
